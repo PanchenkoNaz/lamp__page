@@ -1,3 +1,6 @@
-# lamp__page
+# Lamp page light
+- HTML
+- CSS
+- Java Script
 
-https://panchenkonazar.github.io/lamp__page/
+Can you view [my project](https://panchenkonaz.github.io/lamp__page/)
